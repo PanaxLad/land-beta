@@ -1,0 +1,70 @@
+body {
+    background-color: #EEEEEE;
+    margin: 0;
+}
+
+#banner {
+    font-family: Arial;
+    color: #EEEEEE;
+    text-align: center;
+    padding: 10px;
+    background-color: #393E46;
+    background-size: cover;
+    position: sticky;
+    top: 0;
+}
+
+#video-promocional {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+#Sobre, #comprar, #Email-promocao {
+    font-family: 'Open Sans', sans-serif;
+    color: #222831;
+}
+
+#wrapper #side-bar {
+
+    background-color: #00ADB5;
+    padding: 10px;
+    text-align: center;
+    background-size: cover;
+}
+
+#Botao-comprar a {
+    
+    font-size: 45px;
+    color: #EEEEEE
+}
+
+#comprar {
+    padding: 5px;
+    text-align: center;
+}
+
+#Botao-comprar {
+    padding: 15px;
+    text-align: center;
+
+}
+
+#Footer {
+    background-color: #393E46;
+    color: #EEEEEE;
+    text-align: center;
+}
+
+#Footer a {
+    color: #EEEEEE;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.card {
+    z-index: -1;
+    text-align: center;
+}
